@@ -16,9 +16,9 @@
 188.114.99.216#美国
 141.101.122.220#美国
 198.41.199.43#美国
-141.101.123.123#yxip
-162.159.153.207#IP1
-162.159.153.126#IP2
+141.101.123.123#美国
+162.159.153.207#美国
+162.159.153.126#美国
 162.159.152.84#美国
-cory.ns.cloudflare.com#IP4
-destiny.ns.cloudflare.com#IP5
+cory.ns.cloudflare.com#美国
+destiny.ns.cloudflare.com#美国
