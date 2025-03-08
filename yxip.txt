@@ -22,3 +22,5 @@
 162.159.152.84#美国
 cory.ns.cloudflare.com#美国
 destiny.ns.cloudflare.com#美国
+104.19.90.169
+104.16.235.171
