@@ -31,3 +31,8 @@
 141.101.122.220#yxip
 198.41.199.43#yxip
 141.101.123.123#yxip
+162.159.153.207#IP1
+162.159.153.126#IP2
+162.159.152.84#IP3
+cory.ns.cloudflare.com#IP4
+destiny.ns.cloudflare.com#IP5
