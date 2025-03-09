@@ -55,8 +55,8 @@
 92.243.74.2:8443#KH
 154.211.8.47:2096#DE
 172.67.21.106:443#US
-cory.ns.cloudflare.com:443#未知
-destiny.ns.cloudflare.com:443#未知
+cory.ns.cloudflare.com:443#US
+destiny.ns.cloudflare.com:443#US
 108.165.152.91:2083#IN
 156.238.18.123:443#MU
 141.101.123.123:443#DE
@@ -92,3 +92,5 @@ destiny.ns.cloudflare.com:443#未知
 162.159.138.193:443#US
 162.159.142.5:443#US
 162.159.129.193:443#US
+108.162.194.76:443#US
+108.162.193.93:443#US	
